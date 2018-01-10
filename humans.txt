@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marius Vasile Stefan    marius95.ms@gmail.com   MarioMS995
 
 # THANKS
 
